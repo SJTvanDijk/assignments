@@ -9,4 +9,5 @@ Assignments for the course Programming for economists
 * [Final assignment Python] (https://github.com/SJTvanDijk/assignments/blob/master/exam_june_7_2018%20(1)-checkpoint.ipynb)
 * [Final assignment R] (https://github.com/SJTvanDijk/assignments/blob/master/Exam_student1-Copy1.ipynb)
 
-* [Exam_sep_7]
+* [Exam_sep_7_R] (https://github.com/SJTvanDijk/assignments/blob/master/exam_1_student%20(1)%20(1).ipynb)
+* [exam_sep_7_python] (
